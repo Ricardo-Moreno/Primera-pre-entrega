@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Hamburguesa Simple",
+    "description": "Hambuerguesa de una carne con queso, sin ningún condimento especial añadido.",
+    "price": 200,
+    "thumbnail": "-",
+    "code": "123",
+    "stock": 30,
+    "id": 1
+  },
+  {
+    "title": "Hamburguesa Completa",
+    "description": "Hambuerguesa de dos carnes con queso, lechuga, tomate y la salsa especial Sazón.",
+    "price": 300,
+    "thumbnail": "-",
+    "code": "456",
+    "stock": 20,
+    "id": 2
+  },
+  {
+    "title": "Hamburguesa Triple",
+    "description": "Hambuerguesa de tres carnes con queso, lechuga, tomate, bacon y la salsa especial Sazón.",
+    "price": 400,
+    "thumbnail": "-",
+    "code": "101",
+    "stock": 15,
+    "id": 4
+  }
+]
